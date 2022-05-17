@@ -7,4 +7,4 @@ N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının
 - 1634=1^4+6^4+3^4+4^4=1+1296+81+256=1634
 - 54748=5^5+4^5+7^5+4^5+8^5=3125+1024+16807+1024+32768=54748
 
-![](pic.jpg)
+![](pic.png)
